@@ -78,7 +78,7 @@
     "gulp-uglify": "^1.5.1",
     "gulp-util": "^3.0.6",
     "gulp-webpack": "^1.5.0",
-    "helmet": "~0.15.0",
+    "helmet": "~3.8.2",
     "helmet-csp": "~0.3.0",
     "history": "^1.17.0",
     "jade": "^1.11.0",
@@ -131,7 +131,7 @@
     "webpack-stream": "^3.1.0",
     "xss-filters": "^1.2.6",
     "yargs": "^3.30.0",
-    "snyk": "^1.25.0"
+    "snyk": "^1.42.3"
   },
   "devDependencies": {
     "blessed": "~0.1.81",
