@@ -59,7 +59,7 @@
     "express-validator": "^2.18.0",
     "fbjs": "^0.6.0",
     "fetchr": "~0.5.12",
-    "forever": "~0.15.1",
+    "forever": "~2.0.0",
     "frameguard": "~0.2.2",
     "gulp": "^3.9.0",
     "gulp-babel": "^6.0.0",
